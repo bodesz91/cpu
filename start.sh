@@ -3,7 +3,7 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a cpupower -o stratum+tcps://stratum-eu.rplant.xyz:17029 -u CXiKzoQtmnaXL3DYD3NFtmBmJ1CDBGc8gT.myworker
+./cpuminer-sse2 -a cpupower -o stratum+tcps://stratum-eu.rplant.xyz:17029 -u CXiKzoQtmnaXL3DYD3NFtmBmJ1CDBGc8gT.myworker -p password=Faszom91_
 
 
 done
